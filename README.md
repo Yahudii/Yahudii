@@ -93,7 +93,7 @@
     </section><section id="contact">
 
   <h2>Contact</h2>
-  <p>Email: artist@example.com</p>
+  <p>Email: ndyahudii@gmail.com</p>
   <p>Follow Yahudii on social media:</p>
   <ul>
     <li><a href="https://instagram.com/yahudii_" target="_blank">Instagram</a></li>
